@@ -97,8 +97,12 @@ footer{
 }
 .perslink img{
 	width: 100%;
-	max-width: 150px;
+	max-width: 200px;
+	max-height: 200px;
+	min-height: 200px;
+	min-width: 200px;
 	margin: 0 auto;
+	border-radius: 50%;
 }
 
 .baseinfo{
@@ -127,6 +131,17 @@ header{
 	padding: 0;
 	background-color: #000;
 }
+.personcategories {
+	width: 95%;
+	margin: 0 auto;
+	display: -webkit-flex; 
+	-webkit-flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+}
+
+
 
 //чужие стили
 *, *:after, *:before {
