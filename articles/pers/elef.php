@@ -1,7 +1,7 @@
 <div class="articles">
 	<h2>Фапающий слоник</h2>	
 	<ul class="baseinfo">
-		<img src="./img/pers/vanomas.jpg" class="mainimage">
+		<img src="./img/pers/elef.jpg" class="mainimage">
 		<li><span>Полное имя: </span>Маманцёнок Дзіма</li>
 		<li><span>Также известен как: </span>Скиталец, индийский единох№й, ковер-самолет (в смысле транспорт) Бэтмена</li>
 		<li><span>Место жительства: </span>Рави Дару</li>

@@ -1,7 +1,7 @@
 <div class="articles">
 	<h2>Пивон</h2>	
 	<ul class="baseinfo">
-		<img src="./img/pers/gog.jpg" class="mainimage">
+		<img src="./img/pers/pivon.jpg" class="mainimage">
 		<li><span>Полное имя: </span>Ярусский Колян Вованович Гвоздь Пацанчикович</li>
 		<li><span>Также известен как: </span>Торгаш с Татарки, Горный Король Бычков, Подъезный магнат, Жанкуйский связной и др.</li>
 		<li><span>Место жительства: </span>Гоп-Село, Курцы-Сити</li>
