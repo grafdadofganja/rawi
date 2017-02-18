@@ -1,0 +1,414 @@
+@font-face {
+	font-family: Madera;
+	src: url(../font/madera.ttf);
+}
+@font-face {
+	font-family: Lobster;
+	src: url(../font/lobster.ttf);
+}
+
+html{
+	color: black;
+}
+
+.container{
+	width: 960px;
+	margin: 0 auto;
+	background-color: rgba(255,255,255,0.3)
+}
+.titleimg{
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+.acrimea{
+	width: 100%;
+}
+.subcat{
+	color: #370300;
+	border-bottom: 1px solid orange;
+}
+.imgg{
+	width: 25%;
+	display: inline-block;
+}
+.imgg img{
+	width: 100%;
+	height: 40px;
+}
+.epo{
+	font-family: "Lobster";
+	font-size: 1.5em;
+	line-height: 1em;
+	text-align: center;
+	color: black;
+}
+.epo p{
+	white-space: pre-line;	
+}
+.nav-right{
+	width: 45%;
+	position: relative;
+	top: 0;
+}
+.nav-right li{
+	list-style: none;
+	margin-left: -25px;
+}
+.chapter{
+	width: 50%;
+}
+.nav-right, .chapter{
+	display: inline-block;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	vertical-align: top;
+}
+.tails{
+	background: url(../img/bgseason.jpg);
+	background-repeat: no-repeat;
+	background-attachment:  fixed;
+}
+.clearfix{
+	clear: both;
+}
+footer{
+	padding: 0 20px;
+	width: 100%;
+	background-color: #eee;
+	box-sizing: border-box;
+}
+.nextchapter{
+	text-decoration: none;
+	font-family: "Madera";
+	font-size: 1.5em;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid black;
+	background-color: white;
+	padding: 0px 15px 5px 15px;
+	margin-left:120px;
+}
+.perslink{
+	width: 30%;
+	float: left;
+	text-align: center;
+
+}
+.perslink img{
+	width: 100%;
+	max-width: 150px;
+	margin: 0 auto;
+}
+
+.baseinfo{
+	padding: 0;
+	width: 350px;
+	float: right;
+	border: 1px solid #444;
+	margin-top: -40px;
+}
+.baseinfo img{
+	width: 100%;	
+}
+.baseinfo span{
+	font-weight: bold;	
+}
+.baseinfo li{
+	list-style-type: none;
+	border-bottom: 1px solid #777;
+	padding: 10px;
+}
+main{
+	padding: 20px;
+}
+header{
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+
+//чужие стили
+*, *:after, *:before {
+	box-sizing: border-box;
+}
+
+.animenu__toggle {
+	display: none;
+	cursor: pointer;
+	background-color: #111;
+	border: 0;
+	padding: 10px;
+	height: 40px;
+	width: 40px;
+}
+.intro{
+	color: black;
+	font-style: italic;
+	font-size: 1em;
+}
+
+.animenu__toggle:hover {
+	background-color: #0186ba;
+}
+
+.animenu__toggle__bar {
+	display: block;
+	width: 20px;
+	height: 2px;
+	background-color: #fff;
+	transition: 0.15s cubic-bezier(0.75, -0.55, 0.25, 1.55);
+}
+
+.animenu__toggle__bar + .animenu__toggle__bar {
+	margin-top: 4px;
+}
+
+.animenu__toggle--active .animenu__toggle__bar {
+	margin: 0;
+	position: absolute;
+}
+
+.animenu__toggle--active .animenu__toggle__bar:nth-child(1) {
+	transform: rotate(45deg);
+}
+
+.animenu__toggle--active .animenu__toggle__bar:nth-child(2) {
+	opacity: 0;
+}
+
+.animenu__toggle--active .animenu__toggle__bar:nth-child(3) {
+	transform: rotate(-45deg);
+}
+
+.animenu {
+	display: block;
+	float: right;
+}
+
+.animenu ul {
+	padding: 0;
+	list-style: none;
+	font: 0px 'Open Sans', Arial, Helvetica;
+}
+
+.animenu li, .animenu a {
+	display: inline-block;
+	font-size: 15px;
+}
+
+.animenu a {
+	color: #aaaaaa;
+	text-decoration: none;
+}
+
+.animenu__nav {
+	background-color: #111;
+}
+
+.animenu__nav > li {
+	position: relative;
+	border-right: 1px solid #444444;
+}
+
+.animenu__nav > li > a {
+	padding: 10px 30px;
+	text-transform: uppercase;
+}
+
+.animenu__nav > li > a:first-child:nth-last-child(2):before {
+	content: "";
+	position: absolute;
+	border: 4px solid transparent;
+	border-bottom: 0;
+	border-top-color: currentColor;
+	top: 50%;
+	margin-top: -2px;
+	right: 10px;
+}
+
+.animenu__nav > li:hover > ul {
+	opacity: 1;
+	visibility: visible;
+	margin: 0;
+}
+
+.animenu__nav > li:hover > a {
+	color: #fff;
+}
+
+.animenu__nav__child {
+	min-width: 100%;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 1;
+	opacity: 0;
+	visibility: hidden;
+	margin: 20px 0 0 0;
+	background-color: #373737;
+	transition: margin .15s, opacity .15s;
+}
+
+.animenu__nav__child > li {
+	width: 100%;
+	border-bottom: 1px solid #515151;
+}
+
+.animenu__nav__child > li:first-child > a:after {
+	content: '';
+	position: absolute;
+	height: 0;
+	width: 0;
+	left: 1em;
+	top: -6px;
+	border: 6px solid transparent;
+	border-top: 0;
+	border-bottom-color: inherit;
+}
+
+.animenu__nav__child > li:last-child {
+	border: 0;
+}
+
+.animenu__nav__child a {
+	padding: 10px;
+	width: 100%;
+	border-color: #373737;
+}
+
+.animenu__nav__child a:hover {
+	background-color: #0186ba;
+	border-color: #0186ba;
+	color: #fff;
+}
+
+@media screen and (max-width: 767px) {
+	.animenu__toggle {
+		display: inline-block;
+	}
+
+	.animenu__nav,
+  .animenu__nav__child {
+		display: none;
+	}
+
+	.animenu__nav {
+		margin: 10px 0;
+	}
+
+	.animenu__nav > li {
+		width: 100%;
+		border-right: 0;
+		border-bottom: 1px solid #515151;
+	}
+
+	.animenu__nav > li:last-child {
+		border: 0;
+	}
+
+	.animenu__nav > li:first-child > a:after {
+		content: '';
+		position: absolute;
+		height: 0;
+		width: 0;
+		left: 1em;
+		top: -6px;
+		border: 6px solid transparent;
+		border-top: 0;
+		border-bottom-color: inherit;
+	}
+
+	.animenu__nav > li > a {
+		width: 100%;
+		padding: 10px;
+		border-color: #111;
+		position: relative;
+	}
+
+	.animenu__nav a:hover {
+		background-color: #0186ba;
+		border-color: #0186ba;
+		color: #fff;
+	}
+
+	.animenu__nav__child {
+		position: static;
+		background-color: #373737;
+		margin: 0;
+		transition: none;
+		visibility: visible;
+		opacity: 1;
+	}
+
+	.animenu__nav__child > li:first-child > a:after {
+		content: none;
+	}
+
+	.animenu__nav__child a {
+		padding-left: 20px;
+		width: 100%;
+	}
+}
+
+.animenu__nav--open {
+	display: block !important;
+}
+
+.animenu__nav--open .animenu__nav__child {
+	display: block;
+}
+
+
+// Accord
+.accordion
+{
+	width:100%;
+	min-height:300px;
+	margin:20px auto;
+}
+.accordion-item {
+	font-size: 1.3em;
+	margin: 0 10px 0 10px;
+	padding: 10px;
+	height: auto;
+	background: #f2f2f2;
+	border-bottom:1px solid #ccc;
+	color: #000;
+	cursor:pointer;
+}
+
+.accordion-item.open
+{
+	background:#14ad40;
+	border-bottom:0px;
+	color:#fff;
+}
+.accordion-item.open .type {
+	float: right;
+	padding: 10px;
+}
+
+.accordion-item .type {
+	float: right;
+	padding: 10px;
+}
+
+div.data {
+	background: #fff;
+	margin: 0 10px 0 10px;
+	padding: 10px;
+	border:1px solid #ccc;
+	font-size: 1.2em;
+	line-height: 140%;
+	display:none;
+}
+.accordion li a:link{
+	color:#000;
+}
+.accordion li a:visited{
+	color:#333;
+}
+
+
+
