@@ -139,8 +139,26 @@ header{
 	display: flex;
 	flex-wrap: wrap;
 	align-content: center;
+	justify-content: center;
 }
-
+.perslink {	
+	position: relative; 
+	z-index: 1;
+}
+.perslink a {
+	text-decoration: none;
+	color: #222;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.perslink img:hover{
+	filter: grayscale(100%);
+    transition: 2s;        
+	box-shadow: 0 0 30px rgba(255,0,0,0.5);
+}
+.perslink :hover {	
+	z-index: 2;
+}
 
 
 //чужие стили
@@ -199,6 +217,8 @@ header{
 .animenu {
 	display: block;
 	float: right;
+	position: relative;
+	z-index: 10;
 }
 
 .animenu ul {

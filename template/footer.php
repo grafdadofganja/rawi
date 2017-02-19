@@ -4,6 +4,7 @@
 	</div>
 	<script src="./js/menu.js"></script>
 	<script src="./js/jquery.min.js"></script>
-	<script src="./js/accord.js"></script>
+	<script src="./js/accord.js"></script>	
+	<script src="./js/index.js"></script>	
 </body>
 </html>

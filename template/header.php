@@ -9,7 +9,6 @@
 	<meta charset="utf-8">
 	<link rel ="stylesheet" href="./css/main.css">
 	<link rel ="stylesheet" href="./css/star.css">
-	<script type="text/javascript" src="./js/index.js">
 	</script>
 
 	<title>
