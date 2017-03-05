@@ -159,7 +159,12 @@ header{
 .perslink :hover {	
 	z-index: 2;
 }
-
+.daru-panel {
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	z-index: 2;
+}
 
 //чужие стили
 *, *:after, *:before {
