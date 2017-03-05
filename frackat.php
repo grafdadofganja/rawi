@@ -43,34 +43,34 @@
 		 	</a>
 		 </div>	
 		 <div class="perslink">
-		 	<a href="./category.php?c=fracs&p=adepts">
+		 	<a href="./category.php?c=fracs&p=kurtians">
 			 	<figure>
-					<img src="./img/fracs/adepts.jpg" alt="">
-					<figcaption>Адепты</figcaption>
+					<img src="./img/fracs/kurtians.jpg" alt="">
+					<figcaption>Курцовяне</figcaption>
 				</figure>		
 		 	</a>
 		 </div>	
 		 <div class="perslink">
-		 	<a href="./category.php?c=fracs&p=adepts">
+		 	<a href="./category.php?c=fracs&p=nazi">
 			 	<figure>
-					<img src="./img/fracs/adepts.jpg" alt="">
-					<figcaption>Адепты</figcaption>
+					<img src="./img/fracs/nazi.jpg" alt="">
+					<figcaption>Нацисты</figcaption>
 				</figure>		
 		 	</a>
 		 </div>	
 		 <div class="perslink">
-		 	<a href="./category.php?c=fracs&p=adepts">
+		 	<a href="./category.php?c=fracs&p=trans">
 			 	<figure>
-					<img src="./img/fracs/adepts.jpg" alt="">
-					<figcaption>Адепты</figcaption>
+					<img src="./img/fracs/trans.jpg" alt="">
+					<figcaption>Трансы</figcaption>
 				</figure>		
 		 	</a>
 		 </div>	
 		 <div class="perslink">
-		 	<a href="./category.php?c=fracs&p=adepts">
+		 	<a href="./category.php?c=fracs&p=wet">
 			 	<figure>
-					<img src="./img/fracs/adepts.jpg" alt="">
-					<figcaption>Адепты</figcaption>
+					<img src="./img/fracs/wet.jpg" alt="">
+					<figcaption>Мокрые Трусы</figcaption>
 				</figure>		
 		 	</a>
 		 </div>	
