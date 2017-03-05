@@ -75,11 +75,26 @@
 		  </div>
 		  <div class="data">
 		  	 <ul>
-				<li><a href="./rawitale.php?s=s1&ch=chap0">Абдуль</a></li>
-				<li><a href="./rawitale.php?s=s1&ch=chap1">Гог Дерьмовый</a></li>
-				<li><a href="./rawitale.php?s=s1&ch=chap2">Лора</a></li>
-				<li><a href="./rawitale.php?s=s1&ch=chap3">Членин</a></li>
-				<li><a href="./rawitale.php?s=s1&ch=chap4">Кто-то</a></li>				
+				<li><a href="./category.php?c=regs&p=boozy">Алкаш</a></li>		
+				<li><a href="./category.php?c=regs&p=feod">Феодосийский</a></li>	
+				<li><a href="./category.php?c=regs&p=muti">Мутьтараканский</a></li>	
+				<li><a href="./category.php?c=regs&p=border">Пограничный</a></li>	
+				<li><a href="./category.php?c=regs&p=zusul">Горно-зусулский</a></li>	
+				<li><a href="./category.php?c=regs&p=turk">Тюркский</a></li>	
+				<li><a href="./category.php?c=regs&p=grek">Греческий</a></li>	
+				<li><a href="./category.php?c=regs&p=commie">Страна Коммуниндзей</a></li>	
+				<li><a href="./category.php?c=regs&p=resort">Курортный</a></li>	
+				<li><a href="./category.php?c=regs&p=jan">Жанкуйский</a></li>	
+				<li><a href="./category.php?c=regs&p=north">Северная Долина</a></li>	
+				<li><a href="./category.php?c=regs&p=south">Южная Долина</a></li>	
+				<li><a href="./category.php?c=regs&p=balaton">Балатон</a></li>	
+				<li><a href="./category.php?c=regs&p=suceara">Сучара</a></li>	
+				<li><a href="./category.php?c=regs&p=mordova">Мордова</a></li>	
+				<li><a href="./category.php?c=regs&p=abdul">Абдулодакия</a></li>	
+				<li><a href="./category.php?c=regs&p=dnipro">Днепровский</a></li>	
+				<li><a href="./category.php?c=regs&p=black">Чорнобривці</a></li>	
+				<li><a href="./category.php?c=regs&p=ung">Унгурия</a></li>			
+				
 			</ul>
 		  </div>
 
