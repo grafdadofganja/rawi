@@ -52,18 +52,20 @@
 		  </div>
 		  <div class="data">
 		  	 <ul>
-				<li><a href="./category.php?c=nats&p=gog">Гог</a></li>
-				<li><a href="./category.php?c=pers&p=evil">Эвель</a></li>
-				<li><a href="./category.php?c=pers&p=lora">Лора</a></li>
-				<li><a href="./category.php?c=pers&p=abdul">Абдуль</a></li>
-				<li><a href="./category.php?c=pers&p=vanomas">Ваномас</a></li>
-				<li><a href="./category.php?c=pers&p=ninja">Членин</a></li>
-				<li><a href="./category.php?c=pers&p=batman">Бэтмен</a></li>
-				<li><a href="./category.php?c=pers&p=anton">Антошка</a></li>
-				<li><a href="./category.php?c=pers&p=elef">Слоник</a></li>
-				<li><a href="./category.php?c=pers&p=pivon">Пивон</a></li>
-				<li><a href="./category.php?c=pers&p=rachel">Рахиль</a></li>
-				<li><a href="./category.php?c=pers&p=mike">Майк</a></li>			
+				<li><a href="./category.php?c=nats&p=dacii">Даки</a></li>
+				<li><a href="./category.php?c=nats&p=mordacii">Мордаки</a></li>
+				<li><a href="./category.php?c=nats&p=amazons">Амазонки</a></li>
+				<li><a href="./category.php?c=nats&p=ungurii">Унгуры</a></li>			
+				<li><a href="./category.php?c=nats&p=grecii">Греки</a></li>
+				<li><a href="./category.php?c=nats&p=tatarii">Татары</a></li>
+				<li><a href="./category.php?c=nats&p=ukrii">Укры</a></li>
+				<li><a href="./category.php?c=nats&p=rusi">Русские</a></li>
+				<li><a href="./category.php?c=nats&p=zusuls">Зусулы</a></li>
+				<li><a href="./category.php?c=nats&p=german">Жерманийцы</a></li>
+				<li><a href="./category.php?c=nats&p=czuch">Чухи</a></li>
+				<li><a href="./category.php?c=nats&p=sloneaki">Слоняки</a></li>
+				<li><a href="./category.php?c=nats&p=yaligays">Ялыгейцы</a></li>			
+
 			</ul>
 		  </div>
 
@@ -88,15 +90,15 @@
 		  <div class="data">
 		  	<ul>
 		  		<li><a href="./category.php?c=fracs&p=adepts">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=gays">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=amazons">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=suillae">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=trans">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=kurtians">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=nazi">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=americans">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=wet">Абдуль</a></li>
-		  		<li><a href="./category.php?c=fracs&p=adepts">Абдуль</a></li>
+		  		<li><a href="./category.php?c=fracs&p=gays">Черные Геи</a></li>
+		  		<li><a href="./category.php?c=fracs&p=amazons">Амазонки Курцов</a></li>
+		  		<li><a href="./category.php?c=fracs&p=suillae">Маслята</a></li>
+		  		<li><a href="./category.php?c=fracs&p=trans">Трансики</a></li>
+		  		<li><a href="./category.php?c=fracs&p=kurtians">Курцовяне</a></li>
+		  		<li><a href="./category.php?c=fracs&p=nazi">Нацисты</a></li>
+		  		<li><a href="./category.php?c=fracs&p=americans">Няшки</a></li>
+		  		<li><a href="./category.php?c=fracs&p=wet">Трусы</a></li>
+		  		
 		  	</ul>
 		  </div>
 
