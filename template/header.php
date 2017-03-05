@@ -60,6 +60,10 @@
 						</a>
 					</li>
 					<li>
+						<a href="lockat.php">Локации
+						</a>
+					</li>
+					<li>
 						<a href="relkat.php">Учения и религии
 						</a>
 					</li>
