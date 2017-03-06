@@ -1,0 +1,40 @@
+<a href="./category.php?c=loc&p=kurti">Курцы</a>
+<a href="./category.php?c=loc&p=rawi">Рави Дару</a>
+<a href="./category.php?c=loc&p=burij">Буриж</a>
+<a href="./category.php?c=loc&p=cerk">Черкасская деревушка</a>
+<a href="./category.php?c=loc&p=pluton">Провинция Плутон</a>
+<a href="./category.php?c=loc&p=indville">Индейский поселок</a>
+<a href="./category.php?c=loc&p=redcity">Красночленинск</a>
+<a href="./category.php?c=loc&p=amazon">Амазонская долина</a>
+<a href="./category.php?c=loc&p=arriat">Аррият</a>
+<a href="./category.php?c=loc&p=arg">Аргешмина</a>
+<a href="./category.php?c=loc&p=drk">Делосратическая Республика Копро</a>
+<a href="./category.php?c=loc&p=nigrosea">Пос.Нигроморский</a>
+
+<a href="./category.php?c=rel&p=abdulocred">Абдуловера</a>
+<a href="./category.php?c=rel&p=communism">Коммуниндзюцу</a>
+<a href="./category.php?c=rel&p=goprel">Кодекс Гопника</a>
+<a href="./category.php?c=rel&p=virgin">Вера в святую девственность</a>
+<a href="./category.php?c=regs&p=muti">Мутьтараканский регион</a>
+<a href="./category.php?c=regs&p=abdul">Абдулодакия</a>
+<a href="./category.php?c=regs&p=jan">Жанкуйский Регион</a>
+
+<a href="./category.php?c=fracs&p=adepts">Адепты</a>
+<a href="./category.php?c=fracs&p=suillae">Маслята</a>
+<a href="./category.php?c=fracs&p=gays">Черные геи</a>
+<a href="./category.php?c=fracs&p=wet">Мокрые Трусы</a>
+<a href="./category.php?c=fracs&p=ninjas">Коммуниндзя</a>
+<a href="./category.php?c=fracs&p=islam">Ваххабиты</a>
+
+<a href="./category.php?c=pers&p=mike">Милашка Майк</a>
+<a href="./category.php?c=pers&p=anton">Антошка Немудак</a>
+<a href="./category.php?c=pers&p=sigaotr">Сига и Отрыжка</a>
+<a href="./category.php?c=pers&p=satan">Краузер-Сан</a>
+<a href="./category.php?c=pers&p=ninja">Красный Членин</a>
+<a href="./category.php?c=pers&p=abdul">Абдуль</a>
+<a href="./category.php?c=pers&p=elef">Фапающий Слоник</a>
+<a href="./category.php?c=pers&p=batman">Какающий Бэтмен</a>
+<a href="./category.php?c=pers&p=rachel">Рахиль</a>
+<a href="./category.php?c=pers&p=trans">Транс Евгений</a>
+<a href="./category.php?c=pers&p=said">Саид</a>
+<a href="./category.php?c=pers&p=pivon">Пивон</a>
