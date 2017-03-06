@@ -113,6 +113,8 @@
 		  		<li><a href="./category.php?c=fracs&p=nazi">Нацисты</a></li>
 		  		<li><a href="./category.php?c=fracs&p=americans">Няшки</a></li>
 		  		<li><a href="./category.php?c=fracs&p=wet">Трусы</a></li>
+		  		<li><a href="./category.php?c=fracs&p=ninjas">Коммуниндзя</a></li>
+		  		<li><a href="./category.php?c=fracs&p=islam">Ваххабиты</a></li>
 		  		
 		  	</ul>
 		  </div>
