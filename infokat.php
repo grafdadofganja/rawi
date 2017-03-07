@@ -139,11 +139,13 @@
 		  </div>
 		  <div class="data">
 		  	<ul>
-		  		<li><a href="./rawitale.php?s=s1&ch=chap0">Абдуль</a></li>
-		  		<li><a href="./rawitale.php?s=s1&ch=chap1">Гог Дерьмовый</a></li>
-		  		<li><a href="./rawitale.php?s=s1&ch=chap2">Лора</a></li>
-		  		<li><a href="./rawitale.php?s=s1&ch=chap3">Членин</a></li>
-		  		<li><a href="./rawitale.php?s=s1&ch=chap4">Кто-то</a></li>				
+		  		<li><a href="./category.php?c=rel&p=abdulocred">Абдуловера</a></li>
+		  		<li><a href="./category.php?c=rel&p=islam">Ваххабизм</a></li>
+		  		<li><a href="./category.php?c=rel&p=goprel">Кодекс гопника</a></li>
+		  		<li><a href="./category.php?c=rel&p=virgin">Вера в святую девственность</a></li>
+		  		<li><a href="./category.php?c=rel&p=communism">Коммуниндзюцу</a></li>
+		  		<li><a href="./category.php?c=fracs&p=islam">Ваххабиты</a></li>
+		  		<li><a href="./category.php?c=fracs&p=islam">Ваххабиты</a></li>				
 		  	</ul>
 		  </div>
 
